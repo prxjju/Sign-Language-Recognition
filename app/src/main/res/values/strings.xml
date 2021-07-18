@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TalkToMyHand</string>
+    <string name="Predict">Button</string>
+    <string name="select_image">Select Image</string>
+    <string name="select_image_and_press_predict">Select Image and press Predict</string>
+    <string name="predict">Predict</string>
+</resources>
